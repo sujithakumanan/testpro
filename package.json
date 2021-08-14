@@ -1,0 +1,19 @@
+{
+  "name": "testpro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+"executefile":"node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujithakumanan/testpro.git"
+  },
+  "author": "suji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujithakumanan/testpro/issues"
+  },
+  "homepage": "https://github.com/sujithakumanan/testpro#readme"
+}
